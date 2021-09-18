@@ -29,3 +29,6 @@ CREATE TABLE Map AS
 
 ALTER TABLE Map
 ADD Region int;
+
+SELECT * FROM pocket_monster_trainers;
+
